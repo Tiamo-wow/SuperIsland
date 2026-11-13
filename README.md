@@ -4,7 +4,7 @@
 
 [下载与版本记录](https://github.com/Tiamo-wow/SuperIsland/releases) · [反馈问题](https://github.com/Tiamo-wow/SuperIsland/issues)
 
-本仓库用于发布 APK、更新说明和收集反馈，暂不提供模块源码。首个公开版本正在准备中，当前尚无 APK 可供下载。
+本仓库用于发布 APK、更新说明和收集反馈，暂不提供模块源码。当前已发布 [0.6.2（Debug 预发布版）](https://github.com/Tiamo-wow/SuperIsland/releases/tag/v0.6.2)，请下载 Release 中的 `.apk` 附件。
 
 ## 功能
 
